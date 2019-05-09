@@ -13,5 +13,9 @@ OPUS: with 1 Billion tokens for English and other 800 Million for Arabic.
 
 ## Download 
 
-All model vaariants with GenSim format can be found here: 
+All model variants with GenSim format can be found here: 
 https://drive.google.com/open?id=1S2ugc8pZshYD3mTAkShKoA7He4Ih4gnS
+
+
+All model variants with Binary format can be found here:
+https://drive.google.com/open?id=1guk6kNVoJFuaq1_zFRaEKBPZjz7LhOuj

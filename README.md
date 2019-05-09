@@ -9,7 +9,7 @@ OPUS: with 1 Billion tokens for English and other 800 Million for Arabic.
 
 ### Random_shuffle_SkipGram Visualization
 
-
+![alt text](https://raw.githubusercontent.com/Raki22/ArbEngVec/master/random_skip_plot.png)
 
 ## Download 
 
